@@ -21,9 +21,19 @@ Passionate about building scalable web applications, solving coding problems, an
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/muskan-kachhi-88362b330
+<p align="left">
+<a href="https://www.linkedin.com/in/muskan-kachhi-88362b330">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="mailto:muskankachhi005@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/muskankachhi_005/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
 
 ## 💻 Tech Stack
 
@@ -45,16 +55,17 @@ Full Stack E-Commerce Website using MERN Stack with Authentication and Admin Das
 
 ---
 
-⭐ Thank you for visiting my profile!
----
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskan-2805&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-2805&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muskan-2805&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-2805&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 ---
 
 ## 🔥 GitHub Streak
