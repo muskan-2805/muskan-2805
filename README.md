@@ -57,19 +57,3 @@ Full Stack E-Commerce Website using MERN Stack with Authentication and Admin Das
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskan-2805&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-2805&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muskan-2805&theme=tokyonight"/>
-</p>
