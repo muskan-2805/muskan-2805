@@ -27,17 +27,9 @@ Passionate about building scalable web applications, solving coding problems, an
 
 ## 💻 Tech Stack
 
-- Java
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Git
-- GitHub
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,react,nodejs,express,mongodb,git,github,vscode,idea" />
+</p>
 
 
 ---
