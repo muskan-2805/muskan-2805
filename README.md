@@ -28,7 +28,7 @@ Passionate about building scalable web applications, solving coding problems, an
 ## 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,react,nodejs,express,mongodb,git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,react,nodejs,express,mongodb,git,github" />
 </p>
 
 
@@ -46,3 +46,19 @@ Full Stack E-Commerce Website using MERN Stack with Authentication and Admin Das
 ---
 
 ⭐ Thank you for visiting my profile!
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muskan-2805&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-2805&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muskan-2805&theme=tokyonight"/>
+</p>
